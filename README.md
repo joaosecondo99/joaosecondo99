@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou João Victor Secondo 👋</h1>
+<h1 align="center">João Victor Secondo</h1>
 
 <p align="center">
   Analista de Suporte • JavaScript • React • TypeScript • Node.js • SQL
