@@ -71,8 +71,16 @@ Acredito que a melhor forma de aprender é construindo, por isso utilizo este pe
 ### 🧮 Calculadora
 Projeto desenvolvido para praticar lógica de programação, manipulação de DOM e JavaScript.
 
+🔗 [Acessar aplicação](joaosecondo99.github.io/Projeto-Calculadora/)
+
+📂 [Ver código-fonte](https://github.com/joaosecondo99/Projeto-Calculadora)
+
 ### ❌ Jogo da Velha
 Aplicação desenvolvida para consolidar conceitos de JavaScript, eventos e gerenciamento de estado.
+
+🔗 [Acessar aplicação](https://joaosecondo99.github.io/Projeto-Jogo-da-Velha/)
+
+📂 [Ver código-fonte](https://github.com/joaosecondo99/Projeto-Jogo-da-Velha)
 
 > Novos projetos serão adicionados conforme avanço nos estudos e desenvolvimento da minha stack.
 
@@ -93,8 +101,8 @@ Aplicação desenvolvida para consolidar conceitos de JavaScript, eventos e gere
 ## 📫 Contato
 
 📌 LinkedIn: https://linkedin.com/in/joaosecondo
-
 📌 GitHub: https://github.com/joaosecondo99
+📌 WhatsApp: +55 48 99194-8958
 
 ---
 
