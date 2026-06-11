@@ -92,7 +92,7 @@ Aplicação desenvolvida para consolidar conceitos de JavaScript, eventos e gere
 
 ## 📫 Contato
 
-📌 LinkedIn: https://linkedin.com/in/joaosecondo99
+📌 LinkedIn: https://linkedin.com/in/joaosecondo
 
 📌 GitHub: https://github.com/joaosecondo99
 
