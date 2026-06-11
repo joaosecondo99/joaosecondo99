@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou João Victor Secondo 👋</h1>
 
 <p align="center">
-  Analista de Suporte • Desenvolvedor Full Stack em formação
+  Analista de Suporte • JavaScript • React • TypeScript • Node.js • SQL
 </p>
 
 <p align="center">
