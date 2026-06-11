@@ -101,7 +101,9 @@ Aplicação desenvolvida para consolidar conceitos de JavaScript, eventos e gere
 ## 📫 Contato
 
 📌 LinkedIn: https://linkedin.com/in/joaosecondo
+
 📌 GitHub: https://github.com/joaosecondo99
+
 📌 WhatsApp: +55 48 99194-8958
 
 ---
