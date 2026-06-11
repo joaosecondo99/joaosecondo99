@@ -4,16 +4,6 @@
   Analista de Suporte • JavaScript • React • TypeScript • Node.js • SQL
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/joaosecondo99">
-    <img src="https://img.shields.io/badge/LinkedIn-joaosecondo99-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/joaosecondo99">
-    <img src="https://img.shields.io/badge/GitHub-joaosecondo99-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 👨‍💻 Sobre mim
 
