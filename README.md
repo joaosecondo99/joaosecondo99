@@ -104,7 +104,7 @@ Aplicação desenvolvida para consolidar conceitos de JavaScript, eventos e gere
 
 📌 GitHub: https://github.com/joaosecondo99
 
-📌 WhatsApp: +55 48 99194-8958
+📌 WhatsApp: +55 48 9 9194-8958
 
 ---
 
